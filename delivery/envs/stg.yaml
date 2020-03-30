@@ -3,4 +3,4 @@ project: yuwenma-gke-playground
 compute:  # choose "region" or "zone"
    zone: us-central1-a
 namespace: app-cd-test3-stg
-no_pr_approval_required: false
+no_pr_approval_required: true
